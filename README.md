@@ -4,5 +4,7 @@
 - Chia sẻ cách giải các challenge.
 
 ## Tên bài
-```sh
-Ví dụ ssh bandit@bandit.labs.overthewire.org -p 2220
+```
+ssh bandit@bandit.labs.overthewire.org -p 2220
+
+
