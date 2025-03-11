@@ -8,4 +8,5 @@
 ssh bandit@bandit.labs.overthewire.org -p 2220
 
 
-![Sulution for verl](https://github.com/user-attachments/assets/d32a24c7-b734-465a-a4e3-a25f89f7aab7)
+
+![Screenshot 2025-03-11 234046](https://github.com/user-attachments/assets/9ce30b66-3d24-4994-91d9-90bf7964d361)
